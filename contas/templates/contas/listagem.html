@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="http://127.0.0.1:8000/home">HOME</a>
+    <a href="{% url 'url_home' %}">HOME</a>
     <br>
 
     <h2>Listagem</h2>
@@ -19,6 +19,8 @@
         {% endfor %}
 
     </ul>
+
+    <a href="{% url 'url_nova' %}">Nova Transação</a>
 
 </body>
 </html>

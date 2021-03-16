@@ -32,8 +32,11 @@ wheels/
 .env
 
 # virtualenv
+.env
 .venv
-./venv
-/venv
+.venv/
+env/
 venv/
 ENV/
+env.bak/
+venv.bak/
