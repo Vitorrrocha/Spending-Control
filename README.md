@@ -1,4 +1,4 @@
-<h1 align="center"><b>Spending Control 💾</b></h1>
+<h1 align="center"><b>Spending Control 🧾</b></h1>
 <p align="center">
 
   <a href="https://img.shields.io/github/issues/Vitorrrocha/firstProjectDjango" style="text-decoration: none">
