@@ -45,7 +45,7 @@ This project was developed with the following technologies:
   **Getting Started**
 
   ```bash
-  $ 
+  $ python3 manage.py runserver
   ```
 
  </p>
