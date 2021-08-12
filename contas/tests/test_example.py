@@ -1,6 +1,4 @@
-from django.test import TestCase
-
-# from unittest import TestCase
+from unittest import TestCase
 
 
 class Test(TestCase):
