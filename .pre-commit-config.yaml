@@ -14,7 +14,7 @@ repos:
     hooks:
       - id: unittest
         name: unittest
-        entry: python -m unittest contas/tests.py
+        entry: python -m unittest contas/tests/test_example.py
         language: python
         'types': [ python ]
         pass_filenames: false
