@@ -33,13 +33,15 @@ This project was developed with the following technologies:
   **Cloning repository and running**
 
   ```bash
-  $ git clone https://github.com/Vitorrrocha/firstProjectDjango && cd firstProjectDjango
+  $ git clone https://github.com/Vitorrrocha/Spending-Control && cd Spending-Control
   ```
 
   **Installing dependencies**
 
   ```bash
+  $ python3 -m venv venv
   $ pip3 install -r requirements.txt
+  $ pre-commit install
   ```
 
   **Getting Started**
